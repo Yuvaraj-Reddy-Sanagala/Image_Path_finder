@@ -14,4 +14,6 @@ This repository showcases a 2D pathfinding solution using Python. It processes b
 - `numpy` — for matrix manipulation and binary image handling
 - `collections.deque` — for implementing a BFS queue
 
+Note: This whole assessement was done by using the google Colab
+
 
