@@ -6,7 +6,7 @@ This repository showcases a 2D pathfinding solution using Python. It processes b
 
 - **2D_paths-main/**: Contains the original binary images used for the assessment.
 - **output_images/**: Stores the output images with the detected path drawn in red.
-- **pathfinding_code.py**: Main script that uses image processing and graph traversal to detect paths.
+- **pathfinding_code**: Main script that uses image processing and graph traversal to detect paths.
 
 ## 🧰 Tools & Libraries
 
